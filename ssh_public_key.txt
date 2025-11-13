@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMV5OlPKnCZLddXE4snQSYKrl82RzuOlRLlXw6NHEL1C glebstepanovich@Glebs-MacBook-Air.local
