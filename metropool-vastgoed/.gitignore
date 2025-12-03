@@ -39,3 +39,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+metropool-vastgoed/ # чтобы снова не подхватить
